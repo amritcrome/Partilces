@@ -1,2 +1,3 @@
-# Ai-icons
-Amrit crome icon font, One more project left hanging in the middle
+# Particles
+
+Particles is icon font for Particle.css
